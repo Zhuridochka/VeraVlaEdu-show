@@ -1,6 +1,8 @@
 # Landing Page with animation "VeraVla edu" online educational academy 
 ## This site is an impressive example of modern web design and functionality. It is designed to teach users of the basics and advanced capabilities of artificial intelligence, providing an intuitive and attractive custom experience.
 
+![Scroll preview](./previews/ezgif.com-video-to-gif-converter.gif)
+
 🔗 **Demo:** https://zhuridochka.github.io/VeraVlaEdu-show/home.html
 
 ## Key features:
